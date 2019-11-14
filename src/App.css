@@ -6,6 +6,16 @@
   height: 40vmin;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+}
+
+.imageContainer{
+  width:800px;
+  box-sizing: border-box;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
