@@ -1,15 +1,19 @@
 :root{
-    --image-width: 25vw;
+    --image-width: 15vw;
     --image-height: calc(var(--image-width));
 }
-.image-list {
+.App {
+    text-align: center;
+    margin-left: 18vw;
+    margin-right: 15vw;
+}
+.imageContainer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 20px;
-
+    max-width: 80%;
 }
-
-.image-list img {
+.imageContainer img {
     width: var(--image-width);
     height: var(--image-height);
 }
