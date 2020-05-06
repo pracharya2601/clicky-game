@@ -1,0 +1,15 @@
+:root{
+    --image-width: 25vw;
+    --image-height: calc(var(--image-width));
+}
+.image-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+
+}
+
+.image-list img {
+    width: var(--image-width);
+    height: var(--image-height);
+}
