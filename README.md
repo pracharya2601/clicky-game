@@ -2,7 +2,7 @@
 
 <p>Clicky game using react<p>
 
-<a href>checkout the game</a>
+<a href="https://pracharya2601.github.io/clicky-game/">checkout the game</a>
 
 
 
