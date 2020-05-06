@@ -2,6 +2,7 @@
 import React from 'react';
 import rdata from './data.json';
 
+
 import './App.css';
 
 

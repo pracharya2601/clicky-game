@@ -1,3 +1,11 @@
+## CLicky game: 
+
+<p>Clicky game using react<p>
+
+<a href>checkout the game</a>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
