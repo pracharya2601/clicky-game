@@ -1,0 +1,2 @@
+:root{--image-width:15vw;--image-height:calc(var(--image-width))}.App{text-align:center;margin-left:18vw;margin-right:15vw}.imageContainer{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;grid-gap:20px;max-width:80%}.imageContainer img{width:15vw;width:var(--image-width);height:15vw;height:var(--image-height)}
+/*# sourceMappingURL=main.80cb61fe.chunk.css.map */
